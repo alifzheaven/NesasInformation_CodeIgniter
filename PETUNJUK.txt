@@ -1,0 +1,4 @@
+Database : resources\asset\db
+Login 
+	username : admin
+	password : admin
